@@ -1,0 +1,12 @@
+
+    hr{
+        background-color: chocolate;
+        border-style: none;
+        border-top-style: dotted;
+        height: 0.8px;
+        width: 100%;
+    }
+    body{
+        width: 80%;
+        background-color:powderblue;
+    }
